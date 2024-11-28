@@ -1,6 +1,6 @@
 # DrIFT
 
-##DrIFT: Autonomous \underline{Dr}one Dataset with \underline{I}ntegrated Real and Synthetic Data, \underline{F}lexible Views, and \underline{T}ransformed Domains
+## DrIFT: Autonomous <u>Dr</u>one Dataset with <u>I</u>ntegrated Real and Synthetic Data, <u>F</u>lexible Views, and <u>T</u>ransformed Domains
 
 ### Samples:
 ![Shots1](https://github.com/FardadDadboud/DrIFT/blob/main/DrIFT_ECCV.drawio1.jpg)
