@@ -1,3 +1,3 @@
 # DrIFT
 
-![Architecture](UDA.drawio (14).png)
+![Architecture](./UDA.drawio (14).png)
