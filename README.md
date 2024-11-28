@@ -1,3 +1,3 @@
 # DrIFT
 
-![Architecture]("./UDA.drawio (14).png")
+![Architecture](https://github.com/FardadDadboud/DrIFT/blob/main/UDA.drawio%20(14).png)
