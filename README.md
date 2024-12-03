@@ -1,4 +1,4 @@
-# DrIFT
+# DrIFT test
 
 ## DrIFT: Autonomous <ins>Dr</ins>one Dataset with <ins>I</ins>ntegrated Real and Synthetic Data, <ins>F</ins>lexible Views, and <ins>T</ins>ransformed Domains
 
