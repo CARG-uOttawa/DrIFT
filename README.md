@@ -2,7 +2,7 @@
 
 ## DrIFT: Autonomous <ins>Dr</ins>one Dataset with <ins>I</ins>ntegrated Real and Synthetic Data, <ins>F</ins>lexible Views, and <ins>T</ins>ransformed Domains
 
-### [Paper (arxiv)](https://arxiv.org/abs/2412.04789) | [🤗Dataset](https://huggingface.co/datasets/CARG-uOttawa/DrIFT)
+### [Paper (arxiv)](https://arxiv.org/abs/2412.04789) | [🤗 Dataset](https://huggingface.co/datasets/CARG-uOttawa/DrIFT)
 
 
 ### Samples:
