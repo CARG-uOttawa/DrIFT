@@ -11,11 +11,11 @@
 ![Shots3](https://github.com/FardadDadboud/DrIFT/blob/main/imgs/DrIFT_ECCV.drawio3.jpg)
 ![Shots4](https://github.com/FardadDadboud/DrIFT/blob/main/imgs/DrIFT_ECCV.drawio4%20(2).jpg)
 
----
+
 ### Architecture:
 ![Architecture](https://github.com/FardadDadboud/DrIFT/blob/main/imgs/UDA.drawio%20(14).png)
 
----
+
 ### SKY Background:
 ![Output1](https://github.com/FardadDadboud/DrIFT/blob/main/imgs/DrIFT_ECCV.drawio%20(9).png)
 ### Tree Background:
