@@ -2,7 +2,7 @@
 
 ## DrIFT: Autonomous <ins>Dr</ins>one Dataset with <ins>I</ins>ntegrated Real and Synthetic Data, <ins>F</ins>lexible Views, and <ins>T</ins>ransformed Domains
 
-### Paper (arxiv) | [🤗Dataset](https://huggingface.co/datasets/CARG-uOttawa/DrIFT)
+### [Paper (arxiv)](https://arxiv.org/abs/2412.04789) | [🤗Dataset](https://huggingface.co/datasets/CARG-uOttawa/DrIFT)
 
 
 ### Samples:
@@ -23,7 +23,7 @@
 ### Ground Background:
 ![Output3](https://github.com/FardadDadboud/DrIFT/blob/main/DrIFT_ECCV.drawio%20(8).png)
 
-### Citation
+## Citation
 
 ```
 @misc{dadboud2024driftautonomousdronedataset,
