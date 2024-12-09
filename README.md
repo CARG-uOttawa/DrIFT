@@ -6,10 +6,10 @@
 
 
 ### Samples:
-![Shots1](https://github.com/FardadDadboud/DrIFT/blob/main/DrIFT_ECCV.drawio1.jpg)
-![Shots2](https://github.com/FardadDadboud/DrIFT/blob/main/DrIFT_ECCV.drawio2.jpg)
-![Shots3](https://github.com/FardadDadboud/DrIFT/blob/main/DrIFT_ECCV.drawio3.jpg)
-![Shots4](https://github.com/FardadDadboud/DrIFT/blob/main/DrIFT_ECCV.drawio4%20(2).jpg)
+![Shots1](https://github.com/FardadDadboud/DrIFT/blob/main/imgs/DrIFT_ECCV.drawio1.jpg)
+![Shots2](https://github.com/FardadDadboud/DrIFT/blob/main/imgs/DrIFT_ECCV.drawio2.jpg)
+![Shots3](https://github.com/FardadDadboud/DrIFT/blob/main/imgs/DrIFT_ECCV.drawio3.jpg)
+![Shots4](https://github.com/FardadDadboud/DrIFT/blob/main/imgs/DrIFT_ECCV.drawio4%20(2).jpg)
 
 ---
 ### Architecture:
@@ -17,11 +17,11 @@
 
 ---
 ### SKY Background:
-![Output1](https://github.com/FardadDadboud/DrIFT/blob/main/DrIFT_ECCV.drawio%20(9).png)
+![Output1](https://github.com/FardadDadboud/DrIFT/blob/main/imgs/DrIFT_ECCV.drawio%20(9).png)
 ### Tree Background:
-![Output2](https://github.com/FardadDadboud/DrIFT/blob/main/DrIFT_ECCV.drawio%20(6).png)
+![Output2](https://github.com/FardadDadboud/DrIFT/blob/main/imgs/DrIFT_ECCV.drawio%20(6).png)
 ### Ground Background:
-![Output3](https://github.com/FardadDadboud/DrIFT/blob/main/DrIFT_ECCV.drawio%20(8).png)
+![Output3](https://github.com/FardadDadboud/DrIFT/blob/main/imgs/DrIFT_ECCV.drawio%20(8).png)
 
 ## Citation
 
