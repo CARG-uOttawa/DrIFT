@@ -28,7 +28,7 @@
 ```
 @misc{dadboud2024driftautonomousdronedataset,
       title={DrIFT: Autonomous Drone Dataset with Integrated Real and Synthetic Data, Flexible Views, and Transformed Domains}, 
-      author={Fardad Dadboud and Hamid Azad and Varun Mehta and Miodrag Bolic and Iraj Mntegh},
+      author={Fardad Dadboud and Hamid Azad and Varun Mehta and Miodrag Bolic and Iraj Mantegh},
       year={2024},
       eprint={2412.04789},
       archivePrefix={arXiv},
