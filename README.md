@@ -31,7 +31,7 @@
 
 ## How to download the dataset?
 
-Please download, fill, and sign the [agreement](https://github.com/FardadDadboud/DrIFT/blob/main/agreements/DrIFT_agreement_V1.docx) and send it to [fardad.dadboud@uottawa.ca](mailto:fardad.dadboud@uottawa.ca). After that, we will pass you permission for the downloading of the dataset from 🤗.
+Please download, fill, and sign the [agreement](https://github.com/FardadDadboud/DrIFT/blob/main/agreements/DrIFT_agreement_V1.docx) and send it to [fardad.dadboud@uottawa.ca](mailto:fardad.dadboud@uottawa.ca) (please include "DrIFT_download" as the topic of your email). After that, we will pass you permission for the downloading of the dataset from 🤗.
 
 ## Citation
 
