@@ -26,7 +26,7 @@
 ## News
 - **[Dec 2024]** The real part of our dataset is in the pipeline and will be online soon.
 - **[Dec 2024]** We have uploaded our dataset V1 (synthetic part) on 🤗.
-- **[Dec 2024]** The arxiv version of the paper has been submitted.
+- **[Dec 2024]** The arXiv version of the paper has been submitted.
 - **[Oct 2024]** Our paper was accepted at IEEE/CVF WACV 2025.
 
 ## How to download the dataset?
