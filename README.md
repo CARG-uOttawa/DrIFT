@@ -23,6 +23,16 @@
 ### Ground Background:
 ![Output3](https://github.com/FardadDadboud/DrIFT/blob/main/imgs/DrIFT_ECCV.drawio%20(8).png)
 
+## News
+- **[Dec 2024]** The real part of our dataset is in the pipeline and will be online soon.
+- **[Dec 2024]** We have uploaded our dataset V1 (synthetic part) on 🤗.
+- **[Dec 2024]** The arxiv version of the paper has been submitted.
+- **[Oct 2024]** Our paper was accepted at IEEE/CVF WACV 2025.
+
+## How to download the dataset?
+
+Please download, fill, and sign [the agreement](https://github.com/FardadDadboud/DrIFT/blob/main/agreements/DrIFT_agreement_V1.docx) and send it to [fardad.dadboud@uottawa.ca](mailto:fardad.dadboud@uottawa.ca). After that, we will pass you permission for the downloading of the dataset from 🤗.
+
 ## Citation
 
 ```
