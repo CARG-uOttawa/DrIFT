@@ -24,7 +24,7 @@
 ![Output3](https://github.com/FardadDadboud/DrIFT/blob/main/imgs/DrIFT_ECCV.drawio%20(8).png)
 
 ## News
-- **[Apr 2025]** The agreement requirement has been released and you can download it from the Hugging-Face directly.
+- **[Apr 2025]** The agreement requirement has been released, and you can download it from 🤗 directly.
 - **[Dec 2024]** The real part of our dataset is in the pipeline and will be online soon.
 - **[Dec 2024]** We have uploaded our dataset V1 (synthetic part) on 🤗.
 - **[Dec 2024]** The arXiv version of the paper has been submitted.
@@ -32,7 +32,7 @@
 
 ## How to download the dataset?
 
-***Has been released***
+The agreement requirement has been released, and you can download it from 🤗 directly.
 
 ~~Please download, fill, and sign the [agreement](https://github.com/FardadDadboud/DrIFT/blob/main/agreements/DrIFT_agreement_V1.docx) and send it to [fardad.dadboud@uottawa.ca](mailto:fardad.dadboud@uottawa.ca) (please include "DrIFT_download" as the subject of your email). After that, we will pass you permission for the downloading of the dataset from 🤗.~~
 
