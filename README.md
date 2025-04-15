@@ -48,6 +48,17 @@ The agreement requirement has been released, and you can download it from 🤗 d
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2412.04789}, 
 }
+
+@inproceedings{dadboud2025drift,
+  title={DrIFT: Autonomous Drone Dataset with Integrated Real and Synthetic Data, Flexible Views, and Transformed Domains},
+  author={Dadboud, Fardad and Azad, Hamid and Mehta, Varun and Bolic, Miodrag and Mantegh, Iraj},
+  booktitle={2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  pages={6900--6910},
+  year={2025},
+  organization={IEEE}
+}
 ```
+
+
 
 
